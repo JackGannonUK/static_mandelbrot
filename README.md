@@ -10,5 +10,5 @@ The mandelbrot set is a [fractal](https://en.wikipedia.org/wiki/Fractal), meanin
 
 The mandelbrot set is the set of complex numbers "c" for which the sequence:
 
-Z0 = 0
-Zn = Zn-1 + c
+> Z0 = 0
+> Zn = Zn-1 + c
