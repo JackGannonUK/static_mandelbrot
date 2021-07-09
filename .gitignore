@@ -1,0 +1,23 @@
+# Ignore these directories.
+/target/
+/builds/
+/build/
+
+# Ignore these macOS specific files.
+.DS_Store
+Desktop.ini
+.Spotlight-V100
+.Trashes
+._*
+
+# Ignore these files.
+.vscode
+
+# Ignore Specific Files.
+*.out
+*.pyc
+
+# Application Specific Files
+venv
+node_modles
+.sass-cache
